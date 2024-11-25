@@ -11,7 +11,7 @@
 结构型：
 - [x] 适配器 [adapter](adapter)
 - [x] 外观 [facade](facade)
-- [ ] 代理
+- [x] 代理 [proxy](proxy)
 - [ ] 组合
 - [ ] 装饰
 - [ ] 桥接

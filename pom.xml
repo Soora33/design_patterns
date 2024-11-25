@@ -21,6 +21,7 @@
         <module>abstract_factory</module>
         <module>prototype</module>
         <module>template_method</module>
+        <module>proxy</module>
     </modules>
 
     <properties>
