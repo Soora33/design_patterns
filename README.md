@@ -12,8 +12,8 @@
 - [x] 适配器 [adapter](adapter)
 - [x] 外观 [facade](facade)
 - [x] 代理 [proxy](proxy)
+- [x] 装饰器 [decorator](decorator)
 - [ ] 组合
-- [ ] 装饰
 - [ ] 桥接
 - [ ] 享元
 

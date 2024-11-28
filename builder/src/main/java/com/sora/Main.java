@@ -11,10 +11,10 @@ import com.sora.builder.Computer;
 public class Main {
     public static void main(String[] args) {
         Computer computerBuilder = new Computer
-                .ComputerBuilder("7800x", "7900xtx", "B660M", "32G")
+                .ComputerBuilder("7800X3D", "7900xtx", "B650M", "32G")
                 .build();
         Computer computerBuilder2 = new Computer
-                .ComputerBuilder("7800x", "7900xtx", "B660M", "32G")
+                .ComputerBuilder("7800X3D", "7900xtx", "B650M", "32G")
                 .setSsd("2T")
                 .setPower("1000w")
                 .build();
