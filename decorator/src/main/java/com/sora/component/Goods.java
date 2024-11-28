@@ -2,7 +2,7 @@ package com.sora.component;
 
 /**
  * @Classname Item
- * @Description 商品-抽象构件
+ * @Description 商品-抽象组件
  * @Date 2024/11/27 15:51
  * @Author by Sora33
  */

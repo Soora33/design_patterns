@@ -13,7 +13,7 @@
 - [x] 外观 [facade](facade)
 - [x] 代理 [proxy](proxy)
 - [x] 装饰器 [decorator](decorator)
-- [ ] 组合
+- [x] 组合 [composite](composite)
 - [ ] 桥接
 - [ ] 享元
 

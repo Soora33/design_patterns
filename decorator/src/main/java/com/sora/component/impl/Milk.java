@@ -4,7 +4,7 @@ import com.sora.component.Goods;
 
 /**
  * @Classname Milk
- * @Description 牛奶-具体构件
+ * @Description 牛奶-具体组件
  * @Date 2024/11/27 15:52
  * @Author by Sora33
  */
